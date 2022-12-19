@@ -1,5 +1,6 @@
 # Personal-DjangoWebsite
 A Django Website for a Personal web.
+CRUD base.
 
 Includes Contact Me, About Me, Translations, Articles, Notes and .... Pages.
 
